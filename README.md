@@ -1,4 +1,9 @@
+<p align="center">
+  <img src="assets/banner.png" width="100%">
+</p>
 
+# Generative AI  
+### Master HPQC
 # Generative AI
 
 ### Master HPQC
